@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center"  height="40" width="50" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center"  height="40" width="50" alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
   <img align="center"  height="50" width="60" alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center"  height="40" width="50" alt="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
+  <img align="center"  height="50" width="60" alt="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
   <img align="center"  height="40" width="60" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center"  height="50" width="60" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
   <img align="center"  height="30" width="40" alt="Jest + SuperTest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
