@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />        
   <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
   <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" />
-  <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+  <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" /> 
   </div>  
   
   ##
