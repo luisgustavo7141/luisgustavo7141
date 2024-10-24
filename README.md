@@ -32,7 +32,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" />
   <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
   <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" /> 
-  </div>  
+  <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" /> 
+</div>  
   
   ##
  
